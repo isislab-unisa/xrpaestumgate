@@ -71,7 +71,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+VIDEO TRAILER
 [![Trailer](images/thumbnail.png)](https://drive.google.com/file/d/1E4MpI946NDz0M1To-rnbPUO_zsutUqrt/view?usp=sharing)
 
 XR-PaestumGate is an open source serious game developed in Unity for desktop device and VR headset.
