@@ -19,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/isislab-unisa/xrpaestumgate">
-    <img src="images/xpg.png" alt="Logo" width="220" height="120">
+    <img src="images/logo/xpg.png" alt="Logo" width="240" height="110">
   </a>
 
 <h3 align="center">XR-PaestumGate</h3>
@@ -28,8 +28,8 @@
     XR-PaestumGate explores the potential of immersive technologies such as
     Virtual Reality (VR) in the field of cultural heritage valorization. The open source project extends the virtual reconstruction of the
     archaeological site of Paestum through the design and implementation of
-    a serious game (SG) in VR integrating game mechanics designed to increase user involvement and interest.The experience consists of various activities, from exploring the environment to discover its key places to the possibility of driving a Roman chariot.
-    <br />
+    a serious game (SG) in VR integrating game mechanics designed to increase user involvement and interest.The experience consists of various activities, from exploring the environment to discover its key places to the possibility of driving a roman chariot
+    <br/>
     <a href="https://github.com/isislab-unisa/xrpaestumgate"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -40,8 +40,6 @@
     <a href="https://github.com/isislab-unisa/xrpaestumgate/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -71,12 +69,10 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Video Trailer
-<video src="video/trailer_XRP.mp4" width="900"/>
+[![Trailer](images/thumbnail.png)](https://drive.google.com/file/d/1E4MpI946NDz0M1To-rnbPUO_zsutUqrt/view?usp=sharing)
 
 XR-PaestumGate is an open source serious game developed in Unity for desktop device and VR headset.
 
@@ -168,28 +164,9 @@ How to install:
 2. Install it on your device
 3. Enjoy it
 
-<div align="center">
-  <a href="">
-    <button type="button" style="color: #ffffff;
-			background-color: #4c76c2;
-			font-size: 20px;
-			border: 0px solid #2d63c8;
-			border-radius: 20px;
-			padding: 12px 45px;
-      margin-right: 20px;
-			cursor: pointer">Desktop exe</button>
-  </a>
-  <a href="">
-    <button type="button" style="color: #ffffff;
-			background-color: #d97959;
-			font-size: 20px;
-			border: 0px solid #d97959;
-			border-radius: 20px;
-			padding: 12px 45px;
-			cursor: pointer">Headset apk</button>
-  </a>
-</div>
+[Desktop exe]()
 
+[Headset apk]()
 
 ## Troubleshooting
 - If errors occur, check the **Console** for logs
