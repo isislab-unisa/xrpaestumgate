@@ -25,10 +25,7 @@
 <h3 align="center">XR-PaestumGate</h3>
 
   <p align="center">
-    XR-PaestumGate explores the potential of immersive technologies such as
-    Virtual Reality (VR) in the field of cultural heritage valorization. The open source project extends the virtual reconstruction of the
-    archaeological site of Paestum through the design and implementation of
-    a serious game (SG) in VR integrating game mechanics designed to increase user involvement and interest.The experience consists of various activities, from exploring the environment to discover its key places to the possibility of driving a roman chariot
+    XR-PaestumGate is an open source serious game developed in Unity for desktop devices and VR headsets
     <br/>
     <a href="https://github.com/isislab-unisa/xrpaestumgate"><strong>Explore the docs »</strong></a>
     <br />
@@ -70,28 +67,31 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## 📖 About The Project
 
 [![Trailer](images/trailer_thumbnail.png)](https://drive.google.com/file/d/1E4MpI946NDz0M1To-rnbPUO_zsutUqrt/view?usp=sharing)
 
-XR-PaestumGate is an open source serious game developed in Unity for desktop device and VR headset.
+XR-PaestumGate explores the potential of immersive technologies such as
+    Virtual Reality (VR) in the field of cultural heritage valorization. The open source project extends the virtual reconstruction of the
+    archaeological site of Paestum through the design and implementation of
+    a serious game (SG) in VR integrating game mechanics designed to increase user involvement and interest.The experience consists of various activities, from exploring the environment to discover its key places to the possibility of driving a roman chariot
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Built With
+### 🛠 Built With
 
-* Unity version 2022.3.53f1 LTS
-* C#
-* Meta All in One SDK
-* 3DS Studio Max
+* [![Unity][Unity]][Unity-url]
+* ![Csharp][Csharp]
+* [![MetaSDK][MetaSDK]][MetaSDK-url]
+* [![3DS][3DS]][3DS-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
+## 🚀 Getting Started
 To get a local copy up and running follow these simple steps:
 
-### Prerequisites
+### 📌 Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 Before starting, ensure you have the following installed:
@@ -103,7 +103,7 @@ Before starting, ensure you have the following installed:
 - **3DS Studio Max** (latest version recommended) for import all the scene's prefab. The software is available on a pay-per-use licence, but a 7-day trial is sufficient to import the necessary project requirements
 
 
-### Installation
+### 🔧 Installation
 
 1. Clone the repo
    ```sh
@@ -139,7 +139,7 @@ Before starting, ensure you have the following installed:
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## 🎮 Usage
 The versions (VR and desktop) of the game are divided in two different directories, both have the same game modes:
 - Exploration: freely explore the ancient site of Paestum on foot or using the chariot
 - Chariot Run: timed chariot race along a predefined route
@@ -157,7 +157,7 @@ The subdirectories contains all the Scenes for Desktop and VR version of XR-Paes
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Download
+## ⬇️ Download
 Dowload the desktop version or the VR version of XR-PaestumGate \
 How to install:
 1. Download the installer
@@ -168,7 +168,7 @@ How to install:
 
 [Headset apk]()
 
-## Troubleshooting
+## 🆘 Troubleshooting
 - If errors occur, check the **Console** for logs
 - Ensure all **Unity packages** are installed and up to date
 - Restart Unity or delete the `Library` folder if necessary
@@ -177,7 +177,7 @@ How to install:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- ROADMAP -->
 
-## Roadmap
+## 🛤 Roadmap
 
 - [ ] New modalities
 - [ ] Add hint for keyplaces modality
@@ -190,7 +190,7 @@ See the [open issues](https://github.com/isislab-unisa/xrpaestumgate/issues) for
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+## 🤝 Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -212,9 +212,8 @@ Don't forget to give the project a star! Thanks again!
 </a>
 
 
-
 <!-- LICENSE -->
-## License
+## 📜 License
 
 Distributed under the Apache License. See `LICENSE.txt` for more information.
 
@@ -222,7 +221,7 @@ Distributed under the Apache License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## 📧 Contact
 
 Francesco Pio Covino: francescop.covino@gmail.com
 
@@ -231,11 +230,10 @@ Project Link: [https://github.com/isislab-unisa/xrpaestumgate](https://github.co
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## 🎖️ Acknowledgments
 
-* []() Unity
-* []() C#
-* []() Virtual Reality concepts
+* MalbersAnimation (https://malbersanimations.gitbook.io/animal-controller)
+* Optimaze cable and ropes (https://assetstore.unity.com/packages/tools/physics/optimized-ropes-and-cables-tool-287164)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,5 +253,14 @@ Project Link: [https://github.com/isislab-unisa/xrpaestumgate](https://github.co
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/francesco-pio-covino-583128217
 [product-screenshot]: images/pg_explore.png
-[Unity]: https://img.shields.io/badge/-Unity-%23444444?style=for-the-badge&logo=unity&logoColor=black
+
+[MetaSDK]: https://img.shields.io/badge/MetaSDK-004480?style=for-the-badge&logo=meta&logoColor=white
+[MetaSDK-url]: https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657?srsltid=AfmBOoqObQxPqmkF85OxNLQzknZ7oVrC0elOFHLKG1Rf2uxe7eLfJfUQ
+
+[3DS]: https://img.shields.io/badge/3DSStudioMax-004480?style=for-the-badge&logo=3ds&logoColor=white
+[3DS-url]: https://www.autodesk.com/it/products/3ds-max/
+
+[Unity]: https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white
 [Unity-url]: https://unity.com/
+
+[Csharp]: https://img.shields.io/badge/C%23-00C244?style=for-the-badge
