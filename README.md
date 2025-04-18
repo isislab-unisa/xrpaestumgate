@@ -95,7 +95,7 @@ To get a local copy up and running follow these simple steps:
 
 This is an example of how to list things you need to use the software and how to install them.
 Before starting, ensure you have the following installed:
-- **Unity Hub** (latest version recommended)
+- **Unity Hub** (version recommended: 2022.3.53f1)
 - **Unity Editor**
 - **Git** (for cloning the repository)
 - **Visual Studio** (or another compatible IDE for script editing)
@@ -159,10 +159,50 @@ The subdirectories contains all the Scenes for Desktop and VR version of XR-Paes
 
 ## ⬇️ Download
 Dowload the desktop version or the VR version of XR-PaestumGate \
-How to install:
-1. Download the installer
-2. Install it on your device
-3. Enjoy it
+How to install the apk on your VR Headset:
+
+### Using SideQuest
+1. **Download and Install SideQuest**
+   - Visit [SideQuest](https://sidequestvr.com/) and download the appropriate version for your operating system.
+   - Install the software on your computer.
+
+2. **Enable Developer Mode on Your VR Device**
+   - Open the Meta Quest mobile app on your smartphone.
+   - Go to **Settings** > Select your device > **Developer Mode**.
+   - Toggle **Developer Mode** on and restart your headset.
+
+3. **Connect Your VR Device to the Computer**
+   - Use a USB cable to connect your headset to your PC.
+   - Put on the headset and allow USB debugging when prompted.
+
+4. **Install the APK**
+   - Open SideQuest and ensure your device is detected (green dot in the top left corner).
+   - Click the **Install APK file from folder** button (⬇ icon).
+   - Select the APK file you want to install and wait for the installation to complete.
+
+### Using Meta Developer Hub
+1. **Download and Install Meta Developer Hub**
+   - Visit [Meta Developer Hub](https://developer.oculus.com/) and download the tool.
+   - Install it on your computer.
+
+2. **Enable Developer Mode** (Follow the same steps as for SideQuest).
+
+3. **Connect Your VR Device**
+   - Use a USB cable to connect your headset to your PC.
+   - Accept the debugging prompt in the headset.
+
+4. **Install the APK**
+   - Open Meta Developer Hub.
+   - Navigate to the **Device Manager**.
+   - Click on **Install APK** and select your file.
+   - Wait for the installation to complete.
+
+### Verifying the Installation
+- Put on your headset and go to **Apps** > **Unknown Sources**.
+- Locate your installed APK and launch it.
+
+You have now successfully installed an APK on your VR device!
+
 
 [Desktop exe]()
 
