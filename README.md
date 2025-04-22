@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/logo/xpg.png" alt="Logo" width="240" height="110">
+    <img src="images/logo/logo_xrp.png" alt="Logo" width="240" height="140">
 
 <h3 align="center">XR-PaestumGate</h3>
 
@@ -167,7 +167,7 @@ The subdirectories contains all the Scenes for Desktop and VR version of XR-Paes
 Dowload the desktop version or the VR version of XR-PaestumGate \
 How to install the apk on your VR Headset:
 
-### Using SideQuest
+#### Using SideQuest
 
 1. **Download and Install SideQuest**
 
@@ -190,7 +190,7 @@ How to install the apk on your VR Headset:
     - Click the **Install APK file from folder** button (⬇ icon).
     - Select the APK file you want to install and wait for the installation to complete.
 
-### Using Meta Developer Hub
+#### Using Meta Developer Hub
 
 1. **Download and Install Meta Developer Hub**
 
@@ -210,16 +210,16 @@ How to install the apk on your VR Headset:
     - Click on **Install APK** and select your file.
     - Wait for the installation to complete.
 
-### Verifying the Installation
+#### Verifying the Installation
 
 -   Put on your headset and go to **Apps** > **Unknown Sources**.
 -   Locate your installed APK and launch it.
 
-Click for download
+### Download
 
-[Desktop exe]()
+[Download .exe for desktop device]()
 
-[Headset apk]()
+[Download .apk for VR headset](https://drive.google.com/file/d/1LxJJYaQu3V6OZmpYUbYrPDduHl-ivwzi/view?usp=sharing)
 
 ## 🆘 Troubleshooting
 
