@@ -215,11 +215,12 @@ How to install the apk on your VR Headset:
 -   Put on your headset and go to **Apps** > **Unknown Sources**.
 -   Locate your installed APK and launch it.
 
-### Download
+[xrpaestumgate.apk for VR headset](https://drive.google.com/file/d/1LxJJYaQu3V6OZmpYUbYrPDduHl-ivwzi/view?usp=sharing)
 
-[Download .exe for desktop device]()
+#### Download desktop version for Windows, MacOS and Linux
+[xrpaestumgate.exe](https://drive.google.com/file/d/1otAMUh9wdDExBaoH9injB27eEAh-HUC6/view?usp=sharing)
 
-[Download .apk for VR headset](https://drive.google.com/file/d/1LxJJYaQu3V6OZmpYUbYrPDduHl-ivwzi/view?usp=sharing)
+
 
 ## 🆘 Troubleshooting
 
